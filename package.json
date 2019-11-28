@@ -1,0 +1,15 @@
+{
+  "name": "website",
+  "description": "My personal website",
+  "private": true,
+  "dependencies": {
+    "autoprefixer": "^9.7.2",
+    "postcss-cli": "^6.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "hugo --minify --gc"
+  },
+  "author": "Marie Heggebakk <marie.heggebakk@gmail.com>",
+  "license": "MIT"
+}
