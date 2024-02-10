@@ -1,6 +1,4 @@
 ---
-title: "Hello, I'm Marie!"
+title: "Hello!"
 headless: true
 ---
-
-I'm a computer security student at UiB.
